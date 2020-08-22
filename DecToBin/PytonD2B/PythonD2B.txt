@@ -5,7 +5,6 @@ def D2B(num):
         D2B(num // 2)
     print(num % 2, end='')
 
+    number = int(input("Enter any decimal number: "))
 
-# decimal number
-
-D2B(number)
+    D2B (number)
