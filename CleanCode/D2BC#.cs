@@ -17,7 +17,7 @@
                     n=n/2;
                 }
 
-            Console.Write("Binarī šis skaitlis būs= ");
+            Console.Write("Binarī šīs skaitlis būs= ");
 
                 for(i=i-1 ;i>=0;i--){
                     Console.Write(a[i]);

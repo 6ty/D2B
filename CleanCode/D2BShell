@@ -1,2 +1,3 @@
 D2B=({0..1}{0..1}{0..1}{0..1}{0..1}{0..1}{0..1}{0..1})
 echo ${D2B[7]}
+#In the place of number 7 you could text any other number
